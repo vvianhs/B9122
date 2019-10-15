@@ -14,3 +14,4 @@ random_bar = random.choice(bars)
 random_person = random.choice(people)
 
 print(f"How about you go to {random_bar} with {random_person}?")
+print("This is a change.")
